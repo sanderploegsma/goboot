@@ -14,10 +14,10 @@ type linux struct {
 	runner command.Runner
 }
 
-func (os *linux) GetDisks() ([]*DiskInfo, error) {
+func (os *linux) GetDisks() ([]DiskInfo, error) {
 	return nil, nil
 }
 
-func (os *linux) Write(disk *DiskInfo, data io.Reader) error {
+func (os *linux) Write(disk DiskInfo, data io.Reader) error {
 	return nil
 }

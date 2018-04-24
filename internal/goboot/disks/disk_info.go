@@ -8,8 +8,8 @@ import (
 
 // OS represents an operating system capable of retrieving and working with disks
 type OS interface {
-	GetDisks() ([]*DiskInfo, error)
-	Write(disk *DiskInfo, data io.Reader) error
+	GetDisks() ([]DiskInfo, error)
+	Write(disk DiskInfo, data io.Reader) error
 }
 
 // DiskInfo represents a disk on the host OS, such as:

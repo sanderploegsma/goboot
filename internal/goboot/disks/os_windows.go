@@ -14,10 +14,10 @@ type windows struct {
 	runner command.Runner
 }
 
-func (os *windows) GetDisks() ([]*DiskInfo, error) {
+func (os *windows) GetDisks() ([]DiskInfo, error) {
 	return nil, nil
 }
 
-func (os *windows) Write(disk *DiskInfo, data io.Reader) error {
+func (os *windows) Write(disk DiskInfo, data io.Reader) error {
 	return nil
 }

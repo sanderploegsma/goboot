@@ -2,6 +2,12 @@
 
 
 [[projects]]
+  branch = "master"
+  name = "github.com/groob/plist"
+  packages = ["."]
+  revision = "dd56909aee38bb3860460e3e1ca8a4270c04ce15"
+
+[[projects]]
   name = "github.com/sirupsen/logrus"
   packages = ["."]
   revision = "c155da19408a8799da419ed3eeb0cb5db0ad5dbc"
@@ -25,6 +31,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "f0abeb920368b3b2e50d99f6e5705f0ad6ccd5f7e708f639b6c1fa0820364a22"
+  inputs-digest = "5035c0b9b4e94f03eaf0da3897e562c66ba9aa4694b714bc63393400c0b0e805"
   solver-name = "gps-cdcl"
   solver-version = 1

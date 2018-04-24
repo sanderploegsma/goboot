@@ -14,8 +14,10 @@ func main() {
 	runner := command.NewRunner()
 	os := disks.NewOS(runner)
 
-	_, err := os.GetDisks()
+	disks, err := os.GetDisks()
 	if err != nil {
 		panic(err)
 	}
+
+	logrus.Debug(disks)
 }
