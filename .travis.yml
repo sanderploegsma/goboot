@@ -7,7 +7,7 @@ before_install:
 - chmod +x $GOPATH/bin/dep
 
 install:
-- dep ensure
+- dep ensure -v --vendor-only
 
 script:
 - go vet ./...
