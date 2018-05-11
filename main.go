@@ -1,4 +1,4 @@
-package main
+package main // import "github.com/sanderploegsma/goboot"
 
 import (
 	"github.com/sanderploegsma/goboot/internal/goboot/command"
