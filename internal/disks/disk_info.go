@@ -3,7 +3,7 @@ package disks
 import (
 	"io"
 
-	"github.com/sanderploegsma/goboot/internal/goboot/command"
+	"github.com/sanderploegsma/goboot/internal/command"
 )
 
 // OS represents an operating system capable of retrieving and working with disks

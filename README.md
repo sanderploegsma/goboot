@@ -7,7 +7,3 @@
 Create bootable USB drives using this simple CLI.
 
 *Note: this is by no means production ready yet*
-
-### Setting up
-- Install `vgo` using `go get -u golang.org/x/vgo`
-- Build using `vgo build`

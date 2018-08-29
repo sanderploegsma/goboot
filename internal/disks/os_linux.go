@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/sanderploegsma/goboot/internal/goboot/command"
+	"github.com/sanderploegsma/goboot/internal/command"
 )
 
 func newOS(runner command.Runner) OS {

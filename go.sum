@@ -1,0 +1,10 @@
+github.com/groob/plist v0.0.0-20180203051248-dd56909aee38 h1:afbUddvIjPRC7XHHgeSTRfzZtIxEsSl4VCxumLBGDJU=
+github.com/groob/plist v0.0.0-20180203051248-dd56909aee38/go.mod h1:qg2Nek0ND/hIr+nY8H1oVqEW2cLzVVNaAQ0QexOyjyc=
+github.com/sirupsen/logrus v1.0.5 h1:8c8b5uO0zS4X6RPl/sd1ENwSkIc0/H2PaHxE3udaE8I=
+github.com/sirupsen/logrus v1.0.5/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
+golang.org/x/crypto v0.0.0-20180509205747-2d027ae1dddd h1:SuDTjBhSMCPRh1JuhAAzDbwSCwXa8pv17NTDcIvC1AQ=
+golang.org/x/crypto v0.0.0-20180509205747-2d027ae1dddd/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/crypto v0.0.0-20180820150726-614d502a4dac h1:7d7lG9fHOLdL6jZPtnV4LpI41SbohIJ1Atq7U991dMg=
+golang.org/x/crypto v0.0.0-20180820150726-614d502a4dac/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/sys v0.0.0-20180510032850-7dfd1290c791 h1:fFK3O68ywqxh9kSJokoTlNlK0NSLZ66TYEOB+yqcOVs=
+golang.org/x/sys v0.0.0-20180510032850-7dfd1290c791/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=

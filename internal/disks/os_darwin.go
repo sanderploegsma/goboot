@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"github.com/groob/plist"
-	"github.com/sanderploegsma/goboot/internal/goboot/command"
+	"github.com/sanderploegsma/goboot/internal/command"
 )
 
 func newOS(runner command.Runner) OS {

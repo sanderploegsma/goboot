@@ -1,8 +1,8 @@
-package main // import "github.com/sanderploegsma/goboot"
+package main
 
 import (
-	"github.com/sanderploegsma/goboot/internal/goboot/command"
-	"github.com/sanderploegsma/goboot/internal/goboot/disks"
+	"github.com/sanderploegsma/goboot/internal/command"
+	"github.com/sanderploegsma/goboot/internal/disks"
 	"github.com/sirupsen/logrus"
 )
 
